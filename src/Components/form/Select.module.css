@@ -1,0 +1,19 @@
+.select_control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+
+}
+
+.select_control label {
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.select_control select{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+
+}
+
