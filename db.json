@@ -12,17 +12,6 @@
       "id": 2
     },
     {
-      "name": "PROJETAO Teste",
-      "budget": "4998",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "const": 0,
-      "service": [],
-      "id": 23
-    },
-    {
       "const": 0,
       "service": [],
       "id": 24
