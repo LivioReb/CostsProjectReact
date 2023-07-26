@@ -9,17 +9,6 @@
         "category_id": "2",
         "name": "Desenvolvimento"
       },
-      "id": 1
-    },
-    {
-      "name": "teste",
-      "budget": "22221",
-      "const": 0,
-      "service": [],
-      "category": {
-        "category_id": "2",
-        "name": "Desenvolvimento"
-      },
       "id": 2
     },
     {
@@ -61,17 +50,6 @@
       "id": 26
     },
     {
-      "name": "Amorin w",
-      "budget": "122",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "const": 0,
-      "service": [],
-      "id": 27
-    },
-    {
       "name": "tetete",
       "budget": "12",
       "category": {
@@ -81,17 +59,6 @@
       "const": 0,
       "service": [],
       "id": 28
-    },
-    {
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "name": "asd",
-      "budget": "123213",
-      "const": 0,
-      "service": [],
-      "id": 29
     }
   ],
   "categories": [

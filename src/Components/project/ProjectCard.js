@@ -7,7 +7,10 @@ function ProjectCard({ id, name, budget, category, handleRemove }) {
   console.log(category)
     const categoryName = category && category.name ? category.name : 'Sem categoria';
   const categoryText = categoryName.toLowerCase();
-
+const remove = (e) =>{
+  e.preventDefault()
+  handleRemove(id)
+}
   return (
     <div className={styles.project_card}>
       <h4>{name}</h4>
@@ -21,7 +24,7 @@ function ProjectCard({ id, name, budget, category, handleRemove }) {
         <Link to="/">
             <BsPencil/> Editar
         </Link>
-        <button>
+        <button onClick={remove}>
             <BsFillTrashFill/> Excluir
         </button>
       </div>
