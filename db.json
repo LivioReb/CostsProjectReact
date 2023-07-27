@@ -12,11 +12,6 @@
       "id": 2
     },
     {
-      "const": 0,
-      "service": [],
-      "id": 24
-    },
-    {
       "category": {
         "id": "4",
         "name": "Planejamento"
@@ -28,22 +23,11 @@
       "id": 25
     },
     {
-      "name": "Amorin ",
-      "budget": "111",
+      "name": "Atualizacao do projeto 2x",
+      "budget": "1200",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "const": 0,
-      "service": [],
-      "id": 26
-    },
-    {
-      "name": "tetete",
-      "budget": "12",
-      "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "3",
+        "name": "Design"
       },
       "const": 0,
       "service": [],
