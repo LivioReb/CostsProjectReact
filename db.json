@@ -3,7 +3,7 @@
     {
       "name": "teste",
       "budget": "22221",
-      "const": 0,
+      "cost": 0,
       "service": [],
       "category": {
         "category_id": "2",
@@ -18,20 +18,115 @@
       },
       "name": "AAAA",
       "budget": "5",
-      "const": 0,
+      "cost": 0,
       "service": [],
       "id": 25
     },
     {
-      "name": "Atualizacao do projeto 2x",
-      "budget": "1200",
+      "name": "Projeto teste",
+      "budget": "2000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 29
+    },
+    {
+      "name": "Testando Projeto",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 9500,
+      "service": [
+        {
+          "name": "Atualizacao do projeto 3x",
+          "cost": "200",
+          "description": "Vai fazer isso agora. dnv",
+          "id": "99effe15-5ef6-465c-9f17-676e90b524e4"
+        },
+        {
+          "name": "Atualizacao do projeto 3x",
+          "cost": "200",
+          "description": "Vai fazer isso agora. dnv",
+          "id": "86e5b55e-8b2f-4f14-a50c-ca4c3b1045ea"
+        },
+        {
+          "name": "varredura",
+          "cost": "500",
+          "description": "varrer",
+          "id": "25c20e68-d511-41c5-b70f-dd10cad1d4a6"
+        },
+        {
+          "name": "varredura",
+          "cost": "500",
+          "description": "varrer",
+          "id": "25c20e68-d511-41c5-b70f-dd10cad1d4a6"
+        },
+        {
+          "name": "Atualizacao do projeto 2x",
+          "cost": "100",
+          "description": "varrer",
+          "id": "cda7d64b-973b-495b-a611-319c89fe5bb7"
+        },
+        {
+          "name": "Atualizacao do projeto 2x",
+          "cost": "100",
+          "description": "varrer",
+          "id": "a37d8049-27e9-497c-8160-77dcb17d5237"
+        },
+        {
+          "name": "Atualizacao do projeto 2x",
+          "cost": "100",
+          "description": "varrer",
+          "id": "446f45d3-5827-436c-a680-11b7a55d8845"
+        },
+        {
+          "name": "Atualizacao do projeto 2x",
+          "cost": "1001",
+          "description": "varrer",
+          "id": "0c9c9a80-603b-4ee9-a4f3-bf76b6d126b0"
+        },
+        {
+          "name": "Atualizacao",
+          "cost": "500",
+          "description": "pisar",
+          "id": "14039d3a-fe58-4301-bb96-059134f03a9a"
+        },
+        {
+          "name": "matança",
+          "cost": "500",
+          "description": "pisar",
+          "id": "0fcfc218-8e5c-4194-8a9e-9c1b80e07ecd"
+        },
+        {
+          "name": "matança",
+          "cost": "5000",
+          "description": "pisar",
+          "id": "c77a33a9-cb84-478f-b920-1737492c1515"
+        },
+        {
+          "name": "MAtadouro de matadaors",
+          "cost": "4000",
+          "description": "MAtando matadeiros",
+          "id": "2e2bd790-97a6-4fc0-b2f2-47b2b218a2d1"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "name": "PROJETO ",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "infra"
       },
       "const": 0,
       "service": [],
-      "id": 28
+      "id": 31
     }
   ],
   "categories": [
